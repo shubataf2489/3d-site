@@ -28,9 +28,9 @@ https://github.com/shubataf2489/sep11-freedom-project/blob/main/blog/entry03.md
 
 
 				 	PLAN
-Making a 3D setting (2/26 - 3/4)(2 weeks)
+Making a 3D setting (2/26 - 3/21)(3 weeks)
 Make it look realistic (adding characters, trees, cars, roads, target )   	tutorial on making 3d buildings
-  -(both work on the setting) → background and image (2/26)
+  -(both work on the setting) → background and image (3/26)
 
 Geometry ( the shape and help make cars) (3/4)
 Work on functional firearm (3/11) 1 week
